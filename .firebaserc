@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "bicycleracingchart"
+  },
+  "targets": {
+    "bicycleracingchart": {
+      "hosting": {
+        "Bicycle-Racing-chart": [
+          "bicycleracingchart"
+        ]
+      }
+    }
+  }
+}
